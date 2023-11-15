@@ -1,0 +1,9 @@
+.bigTitle{
+    color: yellow;
+    font-size: 10rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.padd{
+   margin: auto;
+   text-align: center;
+}
